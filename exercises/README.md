@@ -1,6 +1,6 @@
 # STA 380, Part 2: Exercises 
 
-Due: by end of the working day (5:00 PM US Central time) on Sunday, August 18.
+Due: by end of the working day (11:59 PM US Central time) on Sunday, August 18.
 
 Prepare your report on the problems below using RMarkdown or Jupyter (or similar, e.g. Quarto) so that they are fully reproducible, carefully integrating visual and numerical evidence with prose.  You may work solo, or in groups of 4 or fewer people.  You can self-organize groups via Canvas.  
 
